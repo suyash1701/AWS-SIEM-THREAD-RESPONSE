@@ -1,0 +1,10 @@
+{
+  "detail": {
+    "resource": {
+      "accessKeyDetails": {
+        "accessKeyId": "AKIAEXAMPLEKEYID1234",
+        "userName": "victim-test"
+      }
+    }
+  }
+}

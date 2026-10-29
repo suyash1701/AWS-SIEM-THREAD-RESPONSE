@@ -1,0 +1,6 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.zip
+test/out*.json__pycache__/

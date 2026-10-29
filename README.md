@@ -1,6 +1,6 @@
 # Automated Cloud Threat Detection & Response on AWS
 
-A personal lab project that detects threats in an AWS account and responds automatically, built with Terraform and Python.
+A project that detects threats in an AWS account and responds automatically, built with Terraform and Python.
 
 ## What it does
 

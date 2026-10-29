@@ -85,7 +85,3 @@ The quarantine security group is created by the Lambda, so delete it manually af
 - Narrow IAM permissions to specific resources.
 - Handle more finding types and add retries and error alerts.
 - Measure full detection-to-response time.
-
-## Disclaimer
-
-This is a personal learning project built in a sandbox AWS account.
